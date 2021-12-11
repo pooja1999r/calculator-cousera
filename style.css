@@ -1,0 +1,28 @@
+body {background-color:black;
+    font-family: arial;
+    color:white;
+}
+h1{color:grey;
+  font-family: Verdana;
+  text-align:center;
+}
+.maindiv{
+  background-color: white;
+  font-size: 30px;
+  color: black;
+  padding: 20px;
+  border-radius: 25px;
+  align-items: center;
+  margin-top:20px;
+  margin-right:300px ;
+  margin-left:300px ;
+  text-align: left;
+}
+.innerdiv{
+    margin: 5px 300px 5px 300px;
+    text-align: left;
+  
+    
+}
+
+
